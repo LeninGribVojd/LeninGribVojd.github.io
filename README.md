@@ -19,3 +19,6 @@
 – Так какие же это массовые беспорядки?
 
 – О, вы не знаете, какая у нее масса…
+
+![image](https://user-images.githubusercontent.com/114472371/195033073-76df5238-ee0b-4c7b-ba7c-6568a086cfdf.png)
+
