@@ -1,47 +1,27 @@
 # LeninGribVojd.github.io
 КНОПКА:
 ______________________________________________________________________________________________
-
 <style>
-
-    .button_1670312058439 {
-    
-     display: inline-block !important;
-    
-     text-decoration: none !important;
-    
-     background-color: #eaeaea !important;
-   
-     color: #000000 !important;
-    
-     border: 3px solid #000000 !important;
-    
-     border-radius: 100px !important;
-    
-     font-size: 24px !important;
-   
-     padding: 8px 58px !important; 
-    
-     transition: all 0.6s ease !important;
-
-    }
-
-    .button_1670312058439:hover{
-    
-     text-decoration: none !important; 
-    
-     background-color: #ffadff !important;
-    
-     color: #ffffff !important;
-    
+.button_1670312058439 {
+    display: inline-block !important;
+    text-decoration: none !important;
+    background-color: #eaeaea !important;
+    color: #000000 !important;
+    border: 3px solid #000000 !important;
+    border-radius: 100px !important;
+    font-size: 24px !important;
+    padding: 8px 58px !important; 
+    transition: all 0.6s ease !important;
+}
+.button_1670312058439:hover{
+    text-decoration: none !important; 
+    background-color: #ffadff !important;
+    color: #ffffff !important;
     border-color: #d776ff !important;
 }
-
 </style>
-
 <a href="LeninGribVojd.github.io" class="button_1670312058439" target="_blank">
   БАЗОВЫЙ САЙТ
-
 </a>
 ________________________________________________________________________________________________
 
