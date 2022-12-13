@@ -1,7 +1,16 @@
 # LeninGribVojd.github.io
 
+<div>
+div>
 <!--Dayspedia.com widget--><iframe width='309' height='165' style='padding:0!important;margin:0!important;border:none!important;background:none!important;background:transparent!important' marginheight='0' marginwidth='0' frameborder='0' scrolling='no' comment='/*defined*/' src='https://dayspedia.com/if/digit/?v=1&iframe=eyJ3LTEyIjpmYWxzZSwidy0xMSI6dHJ1ZSwidy0xMyI6dHJ1ZSwidy0xNCI6dHJ1ZSwidy0xNSI6dHJ1ZSwidy0xMTAiOnRydWUsInctd2lkdGgtMCI6ZmFsc2UsInctd2lkdGgtMSI6ZmFsc2UsInctd2lkdGgtMiI6dHJ1ZSwidy0xNiI6IjE2cHggMTZweCAyNHB4Iiwidy0xOSI6IjQ4Iiwidy0xNyI6IjEyIiwidy0yMSI6dHJ1ZSwiYmdpbWFnZSI6MTMsImJnaW1hZ2VTZXQiOnRydWUsInctMjFjMCI6IiNmZGM5ZjYiLCJ3LTAiOnRydWUsInctMyI6ZmFsc2UsInctM2MwIjoiIzM0MzQzNCIsInctM2IwIjoiMSIsInctNiI6IiMzNDM0MzQiLCJ3LTIwIjpmYWxzZSwidy00IjoiIzAwMDAwMCIsInctMTgiOmZhbHNlLCJ3LXdpZHRoLTJjLTAiOiIxMDAwIiwidy0xMTUiOmZhbHNlfQ==&lang=ru&cityid=5720'></iframe><!--Dayspedia.com widget ENDS-->
-![maxresdefault (1)](https://user-images.githubusercontent.com/114472371/207258652-bea667fb-8209-4dfb-b13a-9b2eeb93a36c.jpg)
+</div>
+<div>
+    ![IMG_20221210_104128186_MP](https://user-images.githubusercontent.com/114472371/207271912-02049d5a-fd6b-421c-bc6a-1ecb4c1d487f.jpg)
+</div>
+
+</div>
+    
+    ![maxresdefault (1)](https://user-images.githubusercontent.com/114472371/207258652-bea667fb-8209-4dfb-b13a-9b2eeb93a36c.jpg)
 
 
 КНОПКА:
