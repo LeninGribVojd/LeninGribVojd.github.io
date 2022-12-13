@@ -1,4 +1,4 @@
-# LeninGribVojd.github.io![maxresdefault]
+# LeninGribVojd.github.io
 ![maxresdefault (1)](https://user-images.githubusercontent.com/114472371/207258652-bea667fb-8209-4dfb-b13a-9b2eeb93a36c.jpg)
 
 КНОПКА:
